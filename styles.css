@@ -1,33 +1,22 @@
- table, td {
-            border: solid 2px black;
-	 border-collapse: separate;
-        }
+table,th,tr,td{
+	border:1px solid black;
+	width:50%;
 
-        .f {
-            border-color: black;
-        }
-
-        th,td {
-            padding: 14px;
-        }
 }
-.h{
-	background-color: black;
-	color: white;
-	border:solid 2px white;
+.x{
+	text-align:center;
 }
-.b{
-	border:solid 2px;
+.y{
+	width:330px;
+	height:200px;
 }
-.a{
+.z{
 	width:100%;
-	height:100%;
-	padding:0px;
-	margin:0px;
+	
 }
-.h{
-	background-color: black;
-	color:white;
+.f{
+	height:100px;
+	width:100px;
 }
 
 /* Your CSS Code here. */
